@@ -6,6 +6,7 @@ public class ceshi {
 		// TODO Auto-generated method stub
 		int a1 = 11;
 		int a111 = 11;
+		int bbb = 11;
 	}
 
 }
