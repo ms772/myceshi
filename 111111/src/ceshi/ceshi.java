@@ -4,7 +4,6 @@ public class ceshi {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 11;
 		int a1 = 11;
 		int a111 = 11;
 	}
